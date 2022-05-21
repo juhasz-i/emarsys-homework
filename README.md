@@ -1,5 +1,5 @@
 # emarsys-homework
-Dear Reviewers, **Enter**
-Please find my solution and the related tests in this repository. **Enter**
-Kind regards, **Enter**
-Imre Juhász
+Dear Reviewers,
+<br /> Please find my solution and the related tests in this repository.
+<br /> Kind regards,
+<br /> Imre Juhász
